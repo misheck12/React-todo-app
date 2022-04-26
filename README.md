@@ -19,7 +19,7 @@
 
 To get a local copy up and running follow these simple example steps.
 
-- clone our repo(https://github.com/EzekielUtshudi/Javascrip-Capstone-Project)
+- clone our repo(git@github.com:misheck12/React-todo-app.git)
 
 - Run npm start to run the project
 - Run npm run build if you have changes anything to build the bundle.
